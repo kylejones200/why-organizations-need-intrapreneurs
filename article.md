@@ -1,0 +1,173 @@
+# Why Organizations Need Intrapreneurs ### Why Organizations Need Intrapreneurs
+
+
+The pace of change for organizations has changed dramatically and the
+management practices of the 1910--20s (Frederick Winslow Taylor) and the
+1950s (Alfred P. Sloan) are not capable of keeping up. Both Taylor and
+Sloan used management to mechanize and standardize work output. This
+technique is extremely useful for churning out widgets and cars but a
+hierarchical management structure that pushes all decisions up the chain
+of command wastes all the latent talent in the organization.
+
+Companies must identify, assess and respond to challenges in real time
+and the new questions arise relentlessly each one could affect the
+solvency of the company.
+
+Some existential threats are obvious. Others are subtle and almost
+imperceptible. Everyone is familiar with the story of Blockbuster. Once
+the dominant movie rental in the US, Blockbuster employed more than
+80,000 people worldwide and an estimated 43 million members in the U.S.
+Their business model relied on two things: having movies people wanted
+to see physically available when they wanted them and charging a low
+rental price followed by steep late fees. Blockbuster had a good
+business model and their market cap rose to \$5 billion in 2002.
+
+Netflix, by contrast, proposed to mail people DVDs and allow people to
+keep the movie as long as they like. This model violated both the
+concepts that Blockbuster thought were critical to their success. So in
+2000 when Netflix offered itself up to Blockbuster to become the
+mailorder part of the movie rental giant, Blockbuster refused. The
+asking price? \$50 million.
+
+In 2013, Blockbuster filed for bankruptcy. It had been unable to respond
+to the offers of Netflix, Redbox, and streaming services. The major
+incumbent, with every possible advantage, was destroyed by the scrappy
+upstart. Netflix's market capitalization? \$106 billion.
+
+This story is repeated in other sectors: photography (Kodak), Music
+(double disruption, first with iPhones, then with streaming services
+like Pandora/Spotify), Newspapers and digital content, and stock
+brokerages (traditional brokerages Bear Stearns and Lehman Brothers when
+bankrupt while unconventional and algorithmic traders like Bridgewater
+Associates prospered).
+
+In each case, the successful incumbent was challenged by a less
+successful competitor. The commentator didn't do well in the categories
+that the incumbent thought were important and as a result, they didn't
+understand the threat. Our friend Ethan Martin summed this up well when
+he said, "We disregard innovations that are cheaper and worse because
+they are just that, worse. But therein lies the danger, because they
+don't stay worse forever."
+
+This is where innovation becomes a key to the success of the business,
+companies need to innovate because if they don't someone else will and
+threaten the business.
+
+Not only are companies competing for ideas, they are competing for
+talent. Pretty much every company will say that "our people are our
+biggest asset." But most don't treat their employees like a valuable
+asset. Jack Welch, CEO of GE from 1981 to 2001, tells a story of a
+repairman approaching him after Welch had held an employee forum. The
+repairman said the GE had paid for his hands for the past 20 years and
+they could have had his brain for free. If they had just asked him, the
+repairman could have told the designers what parts break on a
+dishwasher, improving reliability and customer satisfaction.
+
+Traditional management models create departments for things like
+research and development. In addition to being a tax write-off, these
+departments are tasked with doing the organization's long-range
+thinking. However, innovation shouldn't be relegated to a function of
+just a few. When employees are free to innovate and create, they are
+more engaged with their work. Allowing all employees to innovate takes
+advantage of the immense talent within an organization and allows
+employees do find non-pecuniary rewards in their work.
+
+### Building a culture from the workgroup up
+Culture starts with building a community. Successful communities have
+norms and foster trust. It is really the trust that is the secret sauce
+for unleashing creativity. If employees don't trust their colleagues,
+they will not be willing to try things that could lead to breakthroughs.
+Afterall, Innovation is risky and many ideas won't work out. Without
+trust, employers are paying only for their employees' hands and not
+getting their heads.
+
+Culturally, we have become conditioned to only highlight success. To an
+extent, this makes sense. There isn't much for a news story to report
+that someone tried something and it didn't work. Even academic journals
+struggle with publishing results from unsuccessful experiments even
+though the scientific community holds that one can learn as much from a
+failed experiment as from a successful one.
+
+### Culture is how we do things: it reflects our values and behaviors
+If culture eats strategy for breakfast, how does a company develop an
+intrapreneurial culture?
+
+Culture derives from the stories an organization tells about itself and
+the behavior of its people. These must be aligned such that the way the
+organization says people act is how they actually act. Any discord in
+that alignment will be immediately obvious to the employees and erode
+trust.
+
+The good news is that companies can create a culture of innovation and
+"train" themselves to be more innovative.
+
+### Every problem is a nail when all you have is a hammer
+Monitoring developed as an R&D activity because it was well suited for
+identifying big trends on the horizon, 50 years ago. As the pace of
+innovation has increased, it is harder to see the single "next big
+thing." Probably because it isn't one thing but a confluence of things,
+some incremental innovations and some novel which, taken as a whole,
+present a transformational (if it is your idea) or existential (if it is
+your competitor's idea) innovation.
+
+Corporate innovation is very expensive so managers want to reduce the
+uncertainty around a potential opportunity but there is a cost for
+uncertainty reduction --- while the corporate R&D manager is waiting for
+clarity, the startup down the street is working to render the
+corporation obsolete.
+
+When it comes to evaluating opportunity at scale, nothing is better than
+corporate R&D. It applies resources, knowledge, and experience that
+can't be found in the garage. In many ways corporate R&D is like a
+finely tuned race car --- nothing can compare when it is on the track.
+But, it is not very useful on gravel and a lot of new ventures are
+rocky.
+
+Monitoring is one way to identify opportunities to fill the company's
+innovation pipeline. The innovation process will winnow out many of the
+opportunities (Too risky; Not feasible; Too expensive) and focus on a
+few that will be converted into products --- the company's best guess on
+what will be the next best thing.
+
+This process of selecting the optimal opportunity from among the
+opportunities in the funnel is what R&D departments do best. But there
+remains the issue of how to identify and select the new opportunities
+that will populate the innovation hopper.
+
+### Being a Lean Startup
+The most popular approach to reducing costs is following the lean
+methodology in which the objective is to invest only what is necessary
+to build a minimum viable product that can test the concept.
+
+- Corporate venturing: Some R&D departments have become quite skilled
+  at buying innovation from others. This can be done to enhance project
+  currently under development or to stockpile ideas for future
+  evaluation.
+- Partnerships: Corporate-university partnerships have been a mainstay
+  in many industries but a new form of partnership is developing between
+  corporations and startups. These joint ventures reduce the risk to the
+  corporation and provide much-needed capital to startups.
+- Distributed internal innovation teams: tapping the great potential of
+  the company's employees for ideation, experimentation, and opportunity
+  evaluation. These teams of volunteers ignore the formal corporate
+  process of stage-gate reviews to just try things out.
+
+Much has been written recently in praise of fast failures and it seems
+that shareholders are willing to suffer a few missteps in pursuit of
+breakthroughs (Witness Google's graveyard of failed products). While the
+pace of innovation has increased, there seems to be a secondary trend
+towards 80% solutions which still leave a lot of uncertainty on the
+bones of the idea. Unfortunately, monitoring and competitive
+intelligence groups insulate corporate R&D from these trends.
+
+Rather than be lulled into a false sense of competitive security,
+monitoring groups should be the constant burr in the side of corporate
+R&D --- pushing for meaningful action not pushing paper for another
+docile report.
+::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
+[September 17, 2022](https://medium.com/p/601a4f0b95e3).
+
+[Canonical
+link](https://medium.com/@kyle-t-jones/why-organizations-need-intrapreneurs-601a4f0b95e3)
+
+Exported from [Medium](https://medium.com) on November 10, 2025.
